@@ -1,0 +1,11 @@
+
+	Maya ToolSet
+	A framework for updating tools in maya from the net.
+
+Autodesk Maya is a very extensible tool that can be used for quite a few things.
+it has a built-in language (mel) as well as a python interpreter that allows you to develop quite a bit of automation and/or extensions to help maya users work faster/better.
+
+The intent of this package is to allow you to get those tools in your system with a minimal of fuss, and get updates as you need them automatically from maya.
+
+Bear with me while i set it up :)
+
